@@ -1,0 +1,308 @@
+/* Group 1 */
+
+position: absolute;
+width: 1437.6px;
+height: 1022.29px;
+
+
+
+/* Desktop - 1 */
+
+position: absolute;
+width: 1437.6px;
+height: 1022.29px;
+
+background: #FFFFFF;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1813px;
+height: 969px;
+left: -116px;
+top: 63px;
+
+
+
+/* background 1 */
+
+position: absolute;
+width: 1813px;
+height: 918px;
+left: -116px;
+top: 105px;
+
+background: url(background.png);
+
+
+/* background 3 */
+
+position: absolute;
+width: 1813px;
+height: 918px;
+left: -116px;
+top: 105px;
+
+background: url(background.png);
+
+
+/* background 4 */
+
+position: absolute;
+width: 1813px;
+height: 918px;
+left: -116px;
+top: 105px;
+
+background: url(background.png);
+
+
+/* background 2 */
+
+position: absolute;
+width: 1813px;
+height: 918px;
+left: -116px;
+top: 105px;
+
+background: url(background.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1530px;
+height: 969px;
+left: -46px;
+top: 63px;
+
+background: #000000;
+opacity: 0.5;
+
+
+/* Navbar */
+
+position: absolute;
+width: 1473px;
+height: 102px;
+left: -27px;
+top: 0px;
+
+background: #C8C5C5;
+
+
+/* logo */
+
+position: absolute;
+width: 131px;
+height: 131px;
+left: 107px;
+top: -11px;
+
+background: url(59f05db0-6a83-4395-9c65-422d30f5b897.png);
+
+
+/* logo */
+
+position: absolute;
+width: 131px;
+height: 131px;
+left: 107px;
+top: -11px;
+
+background: url(59f05db0-6a83-4395-9c65-422d30f5b897.png);
+
+
+/* Home */
+
+position: absolute;
+width: 72px;
+height: 41px;
+left: calc(50% - 72px/2 - 45.8px);
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Materials */
+
+position: absolute;
+width: 142px;
+height: 41px;
+left: calc(50% - 142px/2 + 71.2px);
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Register Supplier */
+
+position: absolute;
+width: 202px;
+height: 41px;
+left: calc(50% - 202px/2 + 254.2px);
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Contact Us */
+
+position: absolute;
+width: 202px;
+height: 41px;
+left: calc(50% - 202px/2 + 433.2px);
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 74.19px;
+height: 74.57px;
+left: 1336px;
+top: 14px;
+
+background: url(Screenshot_20250604_191515.jpg);
+transform: rotate(5.2deg);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 239px;
+height: 62px;
+left: 480px;
+top: 435px;
+
+
+
+/* Button */
+
+position: absolute;
+width: 239px;
+height: 62px;
+left: 480px;
+top: 435px;
+
+background: #C8C5C5;
+border-radius: 12px;
+
+
+/* View Suppliers */
+
+position: absolute;
+width: 195px;
+height: 30px;
+left: 502px;
+top: 451px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 248px;
+height: 62px;
+left: 737px;
+top: 435px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 248px;
+height: 62px;
+left: 737px;
+top: 435px;
+
+background: #C8C5C5;
+border-radius: 10px;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 749px;
+top: 451px;
+
+
+
+/* Register Supplier */
+
+position: absolute;
+width: 225px;
+height: 30px;
+left: 749px;
+top: 451px;
+
+font-family: 'Hepta Slab';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+

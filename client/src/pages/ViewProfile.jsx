@@ -88,7 +88,7 @@ return (
             <span className="text-sm">{suppliers.phone}</span>
           </div>
            <div className="flex flex-wrap items-center gap-3 text-gray-900">
-            <DollarSign ote size={18} className="flex-shrink-0" />
+            <DollarSign size={18} className="flex-shrink-0" />
              <span className="text">RS: {suppliers.rate}/km</span>
            </div>
         </div>

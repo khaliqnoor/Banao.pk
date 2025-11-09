@@ -3,13 +3,27 @@ import { Route, Routes } from 'react-router-dom'
 import { useUser } from '@clerk/clerk-react'
 import './App.css'
 import Home from './pages/Home'
+import { useEffect } from 'react'
 import Contact from './pages/Contact.jsx'
 import RegisterUser from './pages/RegisterUser.jsx'
 import ViewSuppliers from './pages/ViewSuppliers.jsx'
 import ViewProfile from './pages/ViewProfile.jsx'
+import { useAuth } from '@clerk/clerk-react'
 
 function App() {
- const {user} = useUser()
+  const {user} = useUser()
+  const {getToken} = useAuth()
+
+  useEffect(() => {
+   const fetchUser = async () => {
+    if(user) {
+        const token = await getToken()
+         console.log(token)
+       }
+   }
+   fetchUser()
+  }, [user])
+  
 
   return (
     <>

@@ -133,6 +133,12 @@ return (
 
     {/* Reviews */}
     <div className="max-w-2xl mx-auto px-4 py-6 w-[90%] sm:w-4/5 md:w-2/3 lg:w-1/2">
+
+    <form >
+     <textarea type="text" placeholder='Write something here' className='bg-white/70 w-full resize-none py-1 rounded-md px-1 '></textarea>
+     <button className='w-full text-center bg-white/20 py-1 rounded-md cursor-pointer font-semibold'>Add Review</button>
+     </form>
+
       <h2 className="text-lg sm:text-xl font-bold text-gray-900 mb-4">
         Reviews ({suppliers.totalReviews})
       </h2>
@@ -150,7 +156,6 @@ return (
                   <h4 className="font-semibold text-gray-900 text-sm">{review.name}</h4>
                   <span className="text-xs text-gray-500">{review.date}</span>
                 </div>
-                <div className="flex items-center gap-1 mb-2">{renderStars(review.rating)}</div>
                 <p className="text-sm text-gray-700 leading-relaxed">{review.comment}</p>
               </div>
             </div>
